@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the Tools to Bring Your Best Ideas to Life",
+        "title": "Unlock Your Creativity"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Your Creativity",
+  "subtitle": "Discover the Tools to Bring Your Best Ideas to Life"
+}
